@@ -1,0 +1,15 @@
+.h1{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Roboto Slab;
+}
+#label1{
+    position: sticky;
+    font-size: 15px;
+    color: gold;
+    font-family: Roboto Slab;
+    margin-top: 600px;
+}
+canvas{
+    background-color: red;
+}
